@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://caeghowee.pukrr.space/sitemap.xml
